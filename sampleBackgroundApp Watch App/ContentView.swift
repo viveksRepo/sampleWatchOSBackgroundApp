@@ -22,7 +22,7 @@ struct ContentView: View {
         .onChange(of: scenePhase, perform: { newValue in
             switch newValue {
             case .active:
-                extendedRuntimeSessionManager.startTicks()
+                extendedRuntimeSessionManager.startTicks() // App needs to be in active state for starting the session
             case .background:
                 print("Entered background state") // Called when user presses the crown on the watch
             case .inactive:
