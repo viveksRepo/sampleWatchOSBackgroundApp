@@ -9,7 +9,7 @@ Hope this helps anyone looking for a basic example for running inactive/backgrou
 
 ## Helpul articles 
 
-https://developer.apple.com/documentation/watchkit/using_extended_runtime_sessions
-https://developer.apple.com/documentation/watchkit/life_cycles/working_with_the_watchos_app_life_cycle
-https://blog.theivan.io/watchkit/2020/02/02/apple-watch-haptics-in-background.html
-https://developer.apple.com/forums/thread/664075
+* https://developer.apple.com/documentation/watchkit/using_extended_runtime_sessions
+* https://developer.apple.com/documentation/watchkit/life_cycles/working_with_the_watchos_app_life_cycle
+* https://blog.theivan.io/watchkit/2020/02/02/apple-watch-haptics-in-background.html
+* https://developer.apple.com/forums/thread/664075
