@@ -24,9 +24,9 @@ struct ContentView: View {
             case .active:
                 extendedRuntimeSessionManager.startTicks()
             case .background:
-                print("Entered background state")
+                print("Entered background state") // Called when user presses the crown on the watch
             case .inactive:
-                print("Entered inactive state")
+                print("Entered inactive state") // Called when app auto enters always on state
             default:
                 print("App state : Unknown")
             }
