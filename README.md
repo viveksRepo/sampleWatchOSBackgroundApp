@@ -1,5 +1,5 @@
 # sampleWatchOSBackgroundApp
-A sample app to demonstrate background execution of tasks in watchOS
+A sample app to demonstrate background execution of tasks in Apple's watchOS
 
 It was a pain point for me to find the right examples for running tasks (such as a timer) when the app is inactive/background in the watchOS since it was my first app using Swift and Apple's documentation did not help with any snippets. 
 
